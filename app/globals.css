@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --lightHover: #fcf4ff;
+  --darkHover: #2a004a;
+  --darkTheme: #11001F;
+}
+
+:root.dark {
+  --lightHover: #2a004a;
 }
 
 @theme inline {
@@ -17,9 +24,6 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
-    --lightHover: '#fcf4ff';
-    --darkHover: '#2a004a';
-    --darkTheme: '#11001F';
   }
 }
 
