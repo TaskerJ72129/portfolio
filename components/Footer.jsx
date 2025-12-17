@@ -4,7 +4,7 @@ import { assets } from '@/assets/assets'
 
 const Footer = () => {
   return (
-    <div>
+    <div id='contact'>
       <div className='mt-20'>
         <Image src={assets.logo} alt='' className='w-36 mx-auto mb-2' />
         
