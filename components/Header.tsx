@@ -8,7 +8,7 @@ const Header = () => {
       <div>
         <Image src={assets.profile_img} alt='' className='rounded-full w-32' />
       </div>
-      <h3 className='flex items-end gap-2 text-xl md:text-2xl mb-3'>Hi! I'm James Tasker</h3>
+      <h3 className='flex items-end gap-2 text-xl md:text-2xl mb-3'>Hi I'm James Tasker</h3>
       <h1 className='text-3xl sm:text-6xl lg:text-[66px]'>Graduate from The University of Auckland.</h1>
       <p className='max-w-2xl mx-auto'>
         I am a recent Computer Science graduate from The University of Auckland, interested in software, web and game development.
