@@ -81,16 +81,19 @@ export const workData = [
         title: 'Personal Website',
         description: 'Web Development',
         bgImage: '/work-1.png',
+        href: ''
     },
     {
         title: 'Godot Platformer',
         description: 'Game Development',
         bgImage: '/work-2.png',
+        href: 'https://ooojtooo.itch.io/save-the-kittens'
     },
     {
         title: '2D Games In JS Phaser',
         description: 'Capstone Project',
         bgImage: '/work-3.png',
+        href: 'https://www.capitalise.space/projects/691422c9f2a0fb80cc32ccbf'
     },
     // {
     //     title: 'UI/UX designing',
@@ -108,7 +111,7 @@ export const serviceData = [
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BCs in Computer Science' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
