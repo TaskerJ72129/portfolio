@@ -78,25 +78,25 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Personal Website',
+        description: 'Web Development',
         bgImage: '/work-1.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Godot Platformer',
+        description: 'Game Development',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: '2D Games In JS Phaser',
+        description: 'Capstone Project',
         bgImage: '/work-3.png',
     },
-    {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
-    },
+    // {
+    //     title: 'UI/UX designing',
+    //     description: 'UI/UX Design',
+    //     bgImage: '/work-4.png',
+    // },
 ]
 
 export const serviceData = [
