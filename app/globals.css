@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --lightHover: #fcf4ff;
+  --darkHover: #2a004a;
+  --darkTheme: #11001F;
+}
+
+:root.dark {
+  --lightHover: #2a004a;
 }
 
 @theme inline {
@@ -12,7 +19,8 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
+  
+@media (prefers-color-scheme: light) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
@@ -24,3 +32,5 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/*@custom-variant dark (&:where(.dark, .dark *));*/
