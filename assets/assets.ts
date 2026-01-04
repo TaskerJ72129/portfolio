@@ -85,22 +85,22 @@ export const assets = {
 };
 
 export const workData = [
-    {
-        title: 'Personal Website',
-        description: 'Web Development',
-        bgImage: '/work-1.png',
-        href: ''
-    },
+    // {
+    //     title: 'Personal Website',
+    //     description: 'Web Development',
+    //     bgImage: '/work-1.png',
+    //     href: ''
+    // },
     {
         title: 'Godot Platformer',
         description: 'Game Development',
-        bgImage: '/work-2.png',
+        bgImage: '/Godot_Platformer.png',
         href: 'https://ooojtooo.itch.io/save-the-kittens'
     },
     {
         title: '2D Games In JS Phaser',
         description: 'Capstone Project',
-        bgImage: '/work-3.png',
+        bgImage: '/Magic_Cups.png',
         href: 'https://www.capitalise.space/projects/691422c9f2a0fb80cc32ccbf'
     },
     // {
