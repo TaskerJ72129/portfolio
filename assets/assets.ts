@@ -35,8 +35,16 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import JT_Dot from './JT_Dot.png';
+import JT_Dot_transparent from './JT_Dot_transparent.png';
+import JT_Dot_transparent_crop from './JT_Dot_transparent_crop.png';
+import JT from './JT.png';
 
 export const assets = {
+    JT_Dot,
+    JT_Dot_transparent,
+    JT_Dot_transparent_crop,
+    JT,
     user_image,
     code_icon,
     code_icon_dark,
