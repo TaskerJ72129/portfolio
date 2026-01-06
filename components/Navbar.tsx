@@ -37,7 +37,7 @@ const Navbar = () => {
       <nav className={`w-full fixed px-5 lg:px-8 xl:px-[8%] py-4 flex items-center 
         justify-between z-50 ${isScroll ? "bg-[rgba(255, 255, 255, 0.5)] backdrop-blur-lg shadow-sm" : ""}`}>
         <a href="">
-          <Image src={assets.logo} alt='' className='w-28 cursor-pointer mr-14'/>
+          <Image src={assets.JT_Dot_transparent_crop} alt='' className='w-28 cursor-pointer mr-14'/>
         </a>
         <ul className={`hidden md:flex item-center gap-6 lg:gap8 rounded-full px-12 
           py-3 ${isScroll ? "" : "shadow-sm bg-[rgba(255, 255, 255, 0.5)]"} `}> 

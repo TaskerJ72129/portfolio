@@ -35,8 +35,16 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import JT_Dot from './JT_Dot.png';
+import JT_Dot_transparent from './JT_Dot_transparent.png';
+import JT_Dot_transparent_crop from './JT_Dot_transparent_crop.png';
+import JT from './JT.png';
 
 export const assets = {
+    JT_Dot,
+    JT_Dot_transparent,
+    JT_Dot_transparent_crop,
+    JT,
     user_image,
     code_icon,
     code_icon_dark,
@@ -77,22 +85,22 @@ export const assets = {
 };
 
 export const workData = [
-    {
-        title: 'Personal Website',
-        description: 'Web Development',
-        bgImage: '/work-1.png',
-        href: ''
-    },
+    // {
+    //     title: 'Personal Website',
+    //     description: 'Web Development',
+    //     bgImage: '/work-1.png',
+    //     href: ''
+    // },
     {
         title: 'Godot Platformer',
         description: 'Game Development',
-        bgImage: '/work-2.png',
+        bgImage: '/Godot_Platformer.png',
         href: 'https://ooojtooo.itch.io/save-the-kittens'
     },
     {
         title: '2D Games In JS Phaser',
         description: 'Capstone Project',
-        bgImage: '/work-3.png',
+        bgImage: '/Magic_Cups.png',
         href: 'https://www.capitalise.space/projects/691422c9f2a0fb80cc32ccbf'
     },
     // {
@@ -102,16 +110,9 @@ export const workData = [
     // },
 ]
 
-export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
-]
-
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BCs in Computer Science' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Skills & Languages', description: 'HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, C#, Web APIs, .NET, Phaser.js, Object-Oriented Programming, Agile' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BSc in Computer Science' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
