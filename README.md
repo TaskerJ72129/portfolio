@@ -4,13 +4,13 @@ This is my personal developer portfolio website, built to showcase my projects, 
 
 ## Tech Stack
 
-Next.js – React framework for routing, performance, and optimizations
+Next.js - React framework for routing, performance, and optimizations
 
-React – Component-based UI development
+React - Component-based UI development
 
-TypeScript – Type-safe JavaScript for improved reliability
+TypeScript - Type-safe JavaScript for improved reliability
 
-Tailwind CSS – Utility-first styling for responsive design
+Tailwind CSS - Utility-first styling for responsive design
 
 ## Features
 
