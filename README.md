@@ -2,4 +2,8 @@
 
 ## This is my personal website to showcase my projects.
 
-Created using Next.js, Tailwind.css and TypeScript
+Tech Stack:
+Next.js
+React
+TypeScript
+Tailwind CSS
