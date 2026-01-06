@@ -35,7 +35,7 @@ Providing an online presence for job applications
 ## Getting Started
 
 To run the project locally:
-```bash
+```
 npm install
 npm run dev
 ```
