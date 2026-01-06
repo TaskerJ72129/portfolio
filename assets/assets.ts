@@ -112,7 +112,7 @@ export const workData = [
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Skills & Languages', description: 'HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, C#, Web APIs, .NET, Phaser.js, Object-Oriented Programming, Agile' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BCs in Computer Science' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BSc in Computer Science' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
