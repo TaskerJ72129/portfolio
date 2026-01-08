@@ -103,11 +103,6 @@ export const workData = [
         bgImage: '/Magic_Cups.png',
         href: 'https://www.capitalise.space/projects/691422c9f2a0fb80cc32ccbf'
     },
-    // {
-    //     title: 'UI/UX designing',
-    //     description: 'UI/UX Design',
-    //     bgImage: '/work-4.png',
-    // },
 ]
 
 export const infoList = [
@@ -135,7 +130,7 @@ export const infoList = [
     iconDark: assets.project_icon_dark,
     title: 'Projects',
     description: (
-      <>Built 2 finished games for a client and 1 demo on itch.io, plus multiple Full Stack university projects</>
+      <>Built 2 polishes games for a client and 1 demo on itch.io, plus multiple Full Stack university projects</>
     ),
   },
 ];
