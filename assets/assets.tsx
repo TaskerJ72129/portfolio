@@ -111,9 +111,33 @@ export const workData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Skills & Languages', description: 'HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, C#, Web APIs, .NET, Phaser.js, Object-Oriented Programming, Agile' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BSc in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+  {
+    icon: assets.code_icon,
+    iconDark: assets.code_icon_dark,
+    title: 'Skills & Languages',
+    description: (
+      <>HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, C#, Web APIs, .NET, Phaser.js, Object-Oriented Programming, Agile</>
+    ),
+  },
+  {
+    icon: assets.edu_icon,
+    iconDark: assets.edu_icon_dark,
+    title: 'Education',
+    description: (
+      <>
+        <strong>BSc in Computer Science</strong> | University of Auckland |
+        February 2023 – November 2025
+      </>
+    ),
+  },
+  {
+    icon: assets.project_icon,
+    iconDark: assets.project_icon_dark,
+    title: 'Projects',
+    description: (
+      <>Built 2 finished games for a client and 1 demo on itch.io, plus multiple Full Stack university projects</>
+    ),
+  },
 ];
 
 export const toolsData = [
