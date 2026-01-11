@@ -130,7 +130,7 @@ export const infoList = [
     iconDark: assets.project_icon_dark,
     title: 'Projects',
     description: (
-      <>Built 2 polishes games for a client and 1 demo on itch.io, plus multiple Full Stack university projects</>
+      <>Built 2 polished games for a client and 1 demo on itch.io, plus multiple Full Stack university projects</>
     ),
   },
 ];
