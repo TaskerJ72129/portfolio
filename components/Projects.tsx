@@ -15,7 +15,7 @@ const Projects = () => {
         Welcome to my portfolio. Here I showcase a collection of projects from my programming journey
       </p>
 
-      <div className='grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] my-10 gap-5'>
+      <div className="grid grid-cols-1 md:grid-cols-2 my-10 gap-5">
         {workData.map((project, index) => (
           <Link
             key={index}

@@ -85,12 +85,12 @@ export const assets = {
 };
 
 export const workData = [
-    // {
-    //     title: 'Personal Website',
-    //     description: 'Web Development',
-    //     bgImage: '/work-1.png',
-    //     href: ''
-    // },
+    {
+        title: 'Game Tracker',
+        description: 'Full-Stack Web Application',
+        bgImage: '/Game_Tracker_4.png',
+        href: 'https://gametracker-chi.vercel.app/'
+    },
     {
         title: 'Godot Platformer',
         description: 'Game Development',
