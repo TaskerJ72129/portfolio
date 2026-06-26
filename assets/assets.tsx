@@ -39,8 +39,10 @@ import JT_Dot from './JT_Dot.png';
 import JT_Dot_transparent from './JT_Dot_transparent.png';
 import JT_Dot_transparent_crop from './JT_Dot_transparent_crop.png';
 import JT from './JT.png';
+import graduation_photo from './graduation_photo.jpg';
 
 export const assets = {
+    graduation_photo,
     JT_Dot,
     JT_Dot_transparent,
     JT_Dot_transparent_crop,
