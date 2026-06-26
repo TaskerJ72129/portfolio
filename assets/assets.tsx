@@ -123,7 +123,7 @@ export const infoList = [
     description: (
       <>
         <strong>BSc in Computer Science</strong> | University of Auckland |
-        February 2023 – November 2025
+        February 2023 – May 2026
       </>
     ),
   },
@@ -132,7 +132,7 @@ export const infoList = [
     iconDark: assets.project_icon_dark,
     title: 'Projects',
     description: (
-      <>Built 2 polished games for a client and 1 demo on itch.io, plus multiple Full Stack university projects</>
+      <>Built 2 polished games for a client and 1 demo on itch.io, plus multiple Full Stack university and personal projects</>
     ),
   },
 ];
