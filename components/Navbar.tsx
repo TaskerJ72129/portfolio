@@ -39,7 +39,7 @@ const Navbar = () => {
         <a href="">
           <Image src={assets.JT_Dot_transparent_crop} alt='' className='w-28 cursor-pointer mr-14'/>
         </a>
-        <ul className={`hidden md:flex item-center gap-6 lg:gap8 rounded-full px-12 
+        <ul className={`hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 
           py-3 ${isScroll ? "" : "shadow-sm bg-[rgba(255, 255, 255, 0.5)]"} `}> 
           <li><a href="#top">Home</a></li>
           <li><a href="#about">About me</a></li>
